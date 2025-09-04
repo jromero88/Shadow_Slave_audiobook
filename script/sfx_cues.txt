@@ -1,0 +1,49 @@
+=== 01_chapter1 ===
+1. S1 Park – outside police station — morning city murmur
+3. S1 Park – outside police station — sip close
+6. S1 Park – outside police station — crowd footsteps
+8. S1→S2 Transition — door open heavy
+13. S2 Station lobby — alarm klaxon short
+16. S4 Armored holding room — vault door heavy
+25. S5 Descent into sleep — breath slowing
+26. S5 Descent into sleep — soft UI chime
+
+=== 02_chapter2 ===
+1. S1 Dream mountain vision — wind howl; faint chain clatter
+2. S1 Dream mountain vision — soft UI chime
+3. S2 Shackled march — chain drag; horse snort distant
+9. S2 Shackled march — chain jerk
+18. S3 Soldiers appear — horse snort; leather creak
+21. S3 Soldiers appear — flask open
+23. S3 Soldiers appear — whip crack sharp
+28. S3 Soldiers appear — whip crack air
+29. S3 Soldiers appear — horse trot fade
+
+=== 03_chapter3 ===
+1. S1 Caravan march — wind low
+3. S1 Caravan march — chain clink; faint wind gust
+7. S2 Status check — faint rune shimmer
+11. S2 Status check — ambient night fade in
+13. S3 Camp order — bonfire crackle
+23. S4 Imminent threat — thunderous crash
+
+=== 04_chapter4 ===
+1. S1 Avalanche attack — rockfall crash; ice shards
+3. S2 Creature reveal — impact thud; creature roar
+6. S3 First strike — claw slash; body hit
+8. S3 First strike — monster howl
+9. S4 Corpse transforms — flesh rip; bone crack
+13. S5 Chain tactic — chain clatter
+15. S5 Chain tactic — chain strain
+16. S6 Strangling struggle — chain tighten; monster struggle
+18. S6 Strangling struggle — body collapse thud
+19. S7 System message — soft UI chime
+
+=== 05_chapter5 ===
+1. S1 Aftermath — soft UI chime
+4. S1 Aftermath — chain clink
+5. S2 New threat — flesh squelch; monster screech
+6. S2 New threat — chain wrap
+7. S2 New threat — sword slash; body thud
+12. S3 The key — lock click
+16. S5 Debate — bonfire crackle

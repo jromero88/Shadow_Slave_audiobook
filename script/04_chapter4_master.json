@@ -1,0 +1,192 @@
+[
+  {
+    "index": 1,
+    "scene": "S1 Avalanche attack",
+    "speaker": "Narrator",
+    "line": "Rocks and shards of ice rained down. Slaves panicked, tangled in chains, screams filling the night.",
+    "emotion": "urgent",
+    "sfx": "rockfall crash; ice shards",
+    "timing": "",
+    "notes": "Narration above chaos SFX."
+  },
+  {
+    "index": 2,
+    "scene": "S1 Avalanche attack",
+    "speaker": "Older Soldier",
+    "line": "On your feet, fools! Get to the wall!",
+    "emotion": "angry",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 3,
+    "scene": "S2 Creature reveal",
+    "speaker": "Narrator",
+    "line": "A massive lump fell between caravan and wall, then rose — a towering monstrosity with fur like dirty snow, bone claws, and five milky eyes.",
+    "emotion": "tense",
+    "sfx": "impact thud; creature roar",
+    "timing": "",
+    "notes": "Creature reveal."
+  },
+  {
+    "index": 4,
+    "scene": "S2 Creature reveal",
+    "speaker": "Sunny",
+    "line": "That thing must be at least four meters tall.",
+    "emotion": "stunned",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner thought."
+  },
+  {
+    "index": 5,
+    "scene": "S2 Creature reveal",
+    "speaker": "Sunny",
+    "line": "Well, that is just… too much.",
+    "emotion": "stupefied",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 6,
+    "scene": "S3 First strike",
+    "speaker": "Narrator",
+    "line": "The monster slashed. Sunny leapt aside, dragging the broad-shouldered slave into its path.",
+    "emotion": "intense",
+    "sfx": "claw slash; body hit",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 7,
+    "scene": "S3 First strike",
+    "speaker": "Sunny",
+    "line": "Damn! Why are you so heavy!",
+    "emotion": "strained",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 8,
+    "scene": "S3 First strike",
+    "speaker": "Narrator",
+    "line": "Blood drenched him. A chilling howl shook the platform.",
+    "emotion": "grim",
+    "sfx": "monster howl",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 9,
+    "scene": "S4 Corpse transforms",
+    "speaker": "Narrator",
+    "line": "The broad-shouldered corpse convulsed — bone spikes tearing skin, mouth splitting into rows of needle fangs.",
+    "emotion": "horrified",
+    "sfx": "flesh rip; bone crack",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 10,
+    "scene": "S4 Corpse transforms",
+    "speaker": "Sunny",
+    "line": "What are you staring at?! Move away from it!",
+    "emotion": "urgent",
+    "sfx": "",
+    "timing": "",
+    "notes": "Addressing Shifty Slave."
+  },
+  {
+    "index": 11,
+    "scene": "S4 Corpse transforms",
+    "speaker": "Gentle Slave (Scholar)",
+    "line": "Th— the chain!",
+    "emotion": "shocked",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 12,
+    "scene": "S4 Corpse transforms",
+    "speaker": "Narrator",
+    "line": "Sunny realized: this was no beast. It was a tyrant, creating a spawn of itself — far beyond a First Nightmare’s rules.",
+    "emotion": "grave",
+    "sfx": "",
+    "timing": "",
+    "notes": "Lore note; narration dominant."
+  },
+  {
+    "index": 13,
+    "scene": "S5 Chain tactic",
+    "speaker": "Narrator",
+    "line": "Sunny acted. He looped the chain around the monster’s shoulders, pulling to bind its arms.",
+    "emotion": "intense",
+    "sfx": "chain clatter",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 14,
+    "scene": "S5 Chain tactic",
+    "speaker": "Sunny",
+    "line": "You two! Pull on that chain as though your lives depend on it!",
+    "emotion": "commanding",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 15,
+    "scene": "S5 Chain tactic",
+    "speaker": "Narrator",
+    "line": "The shifty slave and scholar pulled hard, tightening the chain as the monster strained.",
+    "emotion": "tense",
+    "sfx": "chain strain",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 16,
+    "scene": "S6 Strangling struggle",
+    "speaker": "Narrator",
+    "line": "Sunny wrapped the shackle chain around its neck, pulling with his whole body, back arched against it.",
+    "emotion": "desperate",
+    "sfx": "chain tighten; monster struggle",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 17,
+    "scene": "S6 Strangling struggle",
+    "speaker": "Sunny",
+    "line": "Die! Die, you bastard!",
+    "emotion": "furious",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 18,
+    "scene": "S6 Strangling struggle",
+    "speaker": "Narrator",
+    "line": "Sweat and blood covered him. Every muscle screamed. Finally, the monster went limp.",
+    "emotion": "relieved",
+    "sfx": "body collapse thud",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 19,
+    "scene": "S7 System message",
+    "speaker": "Nightmare Spell System",
+    "line": "[You have slain a dormant beast, Mountain King's Larva.]",
+    "emotion": "neutral, synthetic",
+    "sfx": "soft UI chime",
+    "timing": "",
+    "notes": ""
+  }
+]

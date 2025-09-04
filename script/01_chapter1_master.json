@@ -1,0 +1,262 @@
+[
+  {
+    "index": 1,
+    "scene": "S1 Park – outside police station",
+    "speaker": "Narrator",
+    "line": "A frail-looking young man sat on a rusty bench across from the police station, cradling a cup of real, plant-based coffee he could barely afford.",
+    "emotion": "matter-of-fact",
+    "sfx": "morning city murmur",
+    "timing": "",
+    "notes": "Narrator line clear; ambient low."
+  },
+  {
+    "index": 2,
+    "scene": "S1 Park – outside police station",
+    "speaker": "Narrator",
+    "line": "Sunny had decided to pamper himself—after all, his life was coming to an end.",
+    "emotion": "wry, fatalistic",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 3,
+    "scene": "S1 Park – outside police station",
+    "speaker": "Narrator",
+    "line": "He raised the cup, savored the aroma, took a tentative sip… and grimaced.",
+    "emotion": "light, observational",
+    "sfx": "sip close",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 4,
+    "scene": "S1 Park – outside police station",
+    "speaker": "Sunny",
+    "line": "Ah! So bitter!",
+    "emotion": "disgusted",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 5,
+    "scene": "S1 Park – outside police station",
+    "speaker": "Sunny",
+    "line": "I should have bought a piece of real meat instead. Who knew actual coffee is so disgusting? Well. It's going to keep me awake, at least.",
+    "emotion": "grumbling",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 6,
+    "scene": "S1 Park – outside police station",
+    "speaker": "Narrator",
+    "line": "He slapped himself to stay awake, cursed the purchase, then finished the coffee. Well-fed citizens rushed past, staring at his thin, pale figure.",
+    "emotion": "observational",
+    "sfx": "crowd footsteps",
+    "timing": "",
+    "notes": "Narrator line clear; ambient under."
+  },
+  {
+    "index": 7,
+    "scene": "S1 Park – outside police station",
+    "speaker": "Sunny",
+    "line": "I guess that's what three full meals a day would do to you.",
+    "emotion": "envy, sardonic",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 8,
+    "scene": "S1→S2 Transition",
+    "speaker": "Narrator",
+    "line": "With a slight grin, Sunny crossed the street and entered the police station.",
+    "emotion": "neutral",
+    "sfx": "door open heavy",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 9,
+    "scene": "S2 Station lobby",
+    "speaker": "Tired Officer",
+    "line": "Are you lost, boy?",
+    "emotion": "dismissive",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 10,
+    "scene": "S2 Station lobby",
+    "speaker": "Sunny",
+    "line": "No. As demanded by the Third Special Directive, I surrender myself as a carrier of the Nightmare Spell.",
+    "emotion": "formal, resigned",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 11,
+    "scene": "S2 Station lobby",
+    "speaker": "Tired Officer",
+    "line": "Are you sure? When did the symptoms start?",
+    "emotion": "alert, cautious",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 12,
+    "scene": "S2 Station lobby",
+    "speaker": "Sunny",
+    "line": "A week ago.",
+    "emotion": "uncertain",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 13,
+    "scene": "S2 Station lobby",
+    "speaker": "Tired Officer",
+    "line": "Shit. Attention! Code Black in the lobby! I repeat—CODE BLACK!",
+    "emotion": "urgent",
+    "sfx": "alarm klaxon short",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 14,
+    "scene": "S3 World lore interlude",
+    "speaker": "Narrator",
+    "line": "The Nightmare Spell first appeared decades ago, as the world recovered from disaster and war. Fatigue became slumber, then death—and the dead became monsters.",
+    "emotion": "grave",
+    "sfx": "",
+    "timing": "",
+    "notes": "No music; narration unobscured."
+  },
+  {
+    "index": 15,
+    "scene": "S3 World lore interlude",
+    "speaker": "Narrator",
+    "line": "The Awakened—those who survived their first trial—restored a fragile order. But for Sunny, poor and untrained, being chosen meant only death.",
+    "emotion": "somber",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 16,
+    "scene": "S4 Armored holding room",
+    "speaker": "Narrator",
+    "line": "Minutes later, Sunny was restrained in a vault room with armored walls. Officers watched with rifles as a gray-haired policeman entered.",
+    "emotion": "clinical",
+    "sfx": "vault door heavy",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 17,
+    "scene": "S4 Armored holding room",
+    "speaker": "Gray-Haired Policeman",
+    "line": "What's your name, kid?",
+    "emotion": "calm authority",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 18,
+    "scene": "S4 Armored holding room",
+    "speaker": "Sunny",
+    "line": "Sunless.",
+    "emotion": "flat, tired",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 19,
+    "scene": "S4 Armored holding room",
+    "speaker": "Gray-Haired Policeman",
+    "line": "Strange name. Do you want me to contact your family?",
+    "emotion": "gentle, guarded",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 20,
+    "scene": "S4 Armored holding room",
+    "speaker": "Sunny",
+    "line": "There's no one. Don't bother.",
+    "emotion": "resigned",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 21,
+    "scene": "S4 Armored holding room",
+    "speaker": "Gray-Haired Policeman",
+    "line": "Then listen carefully. Inside the First Nightmare, you'll meet monsters—and people. They're illusions, conjured to test you.",
+    "emotion": "firm",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 22,
+    "scene": "S4 Armored holding room",
+    "speaker": "Gray-Haired Policeman",
+    "line": "A lot depends on luck. Don't give up on yourself. Survive, and you'll gain powers. What you gain depends on your choices.",
+    "emotion": "steady encouragement",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 23,
+    "scene": "S4 Armored holding room",
+    "speaker": "Gray-Haired Policeman",
+    "line": "First thing: check your Attributes and Aspect. Combat Aspects are common. If not, others can still be useful—just be smart.",
+    "emotion": "instructive",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 24,
+    "scene": "S4 Armored holding room",
+    "speaker": "Gray-Haired Policeman",
+    "line": "If you live, you're halfway to Awakened. If you die, a Nightmare Creature appears here. So please—don't die, Sunless.",
+    "emotion": "grim plea",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 25,
+    "scene": "S5 Descent into sleep",
+    "speaker": "Narrator",
+    "line": "Sunny's eyelids grew heavy. He felt touched by the words, then slipped into darkness.",
+    "emotion": "soft, fading",
+    "sfx": "breath slowing",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 26,
+    "scene": "S5 Descent into sleep",
+    "speaker": "Nightmare Spell System",
+    "line": "[Aspirant! Welcome to the Nightmare Spell. Prepare for your First Trial…]",
+    "emotion": "neutral, synthetic",
+    "sfx": "soft UI chime",
+    "timing": "",
+    "notes": ""
+  }
+]

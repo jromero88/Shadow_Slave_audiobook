@@ -1,0 +1,232 @@
+[
+  {
+    "index": 1,
+    "scene": "S1 Caravan march",
+    "speaker": "Narrator",
+    "line": "Sunny tried to enjoy the pristine mountain air, cleaner than anything in the real world.",
+    "emotion": "calm",
+    "sfx": "wind low",
+    "timing": "",
+    "notes": "Narration clear; ambience under."
+  },
+  {
+    "index": 2,
+    "scene": "S1 Caravan march",
+    "speaker": "Sunny",
+    "line": "Truly, being chosen by the Spell has its benefits.",
+    "emotion": "wry",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner thought."
+  },
+  {
+    "index": 3,
+    "scene": "S1 Caravan march",
+    "speaker": "Narrator",
+    "line": "Slaves stumbled and fell. Those who could not walk were cut from the chain and thrown into the abyss.",
+    "emotion": "bleak",
+    "sfx": "chain clink; faint wind gust",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 4,
+    "scene": "S1 Caravan march",
+    "speaker": "Sunny",
+    "line": "Poor fellows. Rest in peace, you pitiful souls.",
+    "emotion": "somber",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner thought."
+  },
+  {
+    "index": 5,
+    "scene": "S1 Caravan march",
+    "speaker": "Narrator",
+    "line": "Sunny reflected on how he had come to terms with death — carving his own name beneath his parents’ on an old tree.",
+    "emotion": "reflective",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 6,
+    "scene": "S1 Caravan march",
+    "speaker": "Narrator",
+    "line": "He knew cold would not kill him; the bones he had seen in his vision foretold monsters yet to come.",
+    "emotion": "grim",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 7,
+    "scene": "S2 Status check",
+    "speaker": "Narrator",
+    "line": "Sunny summoned the runes again, this time reading his Attributes.",
+    "emotion": "neutral",
+    "sfx": "faint rune shimmer",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 8,
+    "scene": "S2 Status check",
+    "speaker": "Narrator",
+    "line": "[Fated]: The strings of fate wrap tightly around you… unlikely events drawn by your presence.",
+    "emotion": "measured",
+    "sfx": "",
+    "timing": "",
+    "notes": "Condensed description."
+  },
+  {
+    "index": 9,
+    "scene": "S2 Status check",
+    "speaker": "Sunny",
+    "line": "I guess this is how I got a super rare useless Aspect.",
+    "emotion": "bitter",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner commentary."
+  },
+  {
+    "index": 10,
+    "scene": "S2 Status check",
+    "speaker": "Narrator",
+    "line": "[Mark of Divinity]: A faint scent of divinity lingers. [Child of Shadows]: Shadows recognize you as their own.",
+    "emotion": "neutral",
+    "sfx": "",
+    "timing": "",
+    "notes": "Summarized."
+  },
+  {
+    "index": 11,
+    "scene": "S2 Status check",
+    "speaker": "Narrator",
+    "line": "As night fell, Sunny realized he could see perfectly in darkness.",
+    "emotion": "intrigued",
+    "sfx": "ambient night fade in",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 12,
+    "scene": "S3 Camp order",
+    "speaker": "Head Soldier",
+    "line": "Stop the caravan! Prepare to camp!",
+    "emotion": "commanding",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 13,
+    "scene": "S3 Camp order",
+    "speaker": "Narrator",
+    "line": "The slaves collapsed in a clearing. Soldiers built a bonfire and herded them into a circle.",
+    "emotion": "neutral",
+    "sfx": "bonfire crackle",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 14,
+    "scene": "S3 Camp order",
+    "speaker": "Narrator",
+    "line": "Sunny received icy water and moldy bread, forcing it down with no relief from hunger.",
+    "emotion": "flat",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 15,
+    "scene": "S3 Camp order",
+    "speaker": "Shifty Slave",
+    "line": "By all the gods, they used to feed me better even in the dungeons!",
+    "emotion": "desperate",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 16,
+    "scene": "S3 Camp order",
+    "speaker": "Shifty Slave",
+    "line": "And most of us there were waiting for the gallows too!",
+    "emotion": "anguished",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 17,
+    "scene": "S3 Camp order",
+    "speaker": "Narrator",
+    "line": "The shifty slave crawled toward bright-red berries sprouting through snow.",
+    "emotion": "tense",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 18,
+    "scene": "S3 Camp order",
+    "speaker": "Gentle Slave (Scholar)",
+    "line": "I would advise against eating those, friend.",
+    "emotion": "calm warning",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 19,
+    "scene": "S3 Camp order",
+    "speaker": "Shifty Slave",
+    "line": "You and your advice again! What?! Why?!",
+    "emotion": "angry",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 20,
+    "scene": "S3 Camp order",
+    "speaker": "Gentle Slave (Scholar)",
+    "line": "These berries are called Bloodbane. They grow where blood has been spilled. Bloodbane is poisonous — a few could kill a man.",
+    "emotion": "measured",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 21,
+    "scene": "S3 Camp order",
+    "speaker": "Shifty Slave",
+    "line": "Curses!",
+    "emotion": "furious",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 22,
+    "scene": "S4 Imminent threat",
+    "speaker": "Narrator",
+    "line": "Sunny recognized the camp as the site of slaughter from his vision.",
+    "emotion": "grim",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 23,
+    "scene": "S4 Imminent threat",
+    "speaker": "Narrator",
+    "line": "As if in answer, a thunderous noise rang from above, and something massive crashed down from the sky.",
+    "emotion": "urgent",
+    "sfx": "thunderous crash",
+    "timing": "",
+    "notes": "Narrator line dominant; SFX under."
+  }
+]

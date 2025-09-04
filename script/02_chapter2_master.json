@@ -1,0 +1,302 @@
+[
+  {
+    "index": 1,
+    "scene": "S1 Dream mountain vision",
+    "speaker": "Narrator",
+    "line": "Sunny dreamt of a jagged, lonesome mountain bathed in ghostly moonlight. Time reversed before his eyes: snow retreated, bones appeared, then a slave caravan moved backward down the slope.",
+    "emotion": "somber",
+    "sfx": "wind howl; faint chain clatter",
+    "timing": "",
+    "notes": "Narrator clear; ambient low."
+  },
+  {
+    "index": 2,
+    "scene": "S1 Dream mountain vision",
+    "speaker": "Nightmare Spell System",
+    "line": "[Aspirant! Welcome to the Nightmare Spell. Prepare for your First Trial…]",
+    "emotion": "neutral, synthetic",
+    "sfx": "soft UI chime",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 3,
+    "scene": "S2 Shackled march",
+    "speaker": "Narrator",
+    "line": "A dull ache spread from Sunny’s bleeding feet. Shackles tore at his wrists, his thin tunic useless against the biting wind. Ahead, a broad-shouldered man walked steadily. Behind him, a shifty-eyed slave cursed under his breath.",
+    "emotion": "bleak",
+    "sfx": "chain drag; horse snort distant",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 4,
+    "scene": "S2 Shackled march",
+    "speaker": "Sunny",
+    "line": "What kind of a situation is this?!",
+    "emotion": "bewildered",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner voice; may be processed slightly internal."
+  },
+  {
+    "index": 5,
+    "scene": "S2 Shackled march",
+    "speaker": "Narrator",
+    "line": "Sunny tried to summon a status screen. Runes shimmered in the air, revealing his Aspect.",
+    "emotion": "neutral",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 6,
+    "scene": "S2 Shackled march",
+    "speaker": "Sunny",
+    "line": "What?! What the actual fuck?!",
+    "emotion": "shocked, angry",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 7,
+    "scene": "S2 Shackled march",
+    "speaker": "Narrator",
+    "line": "Name: Sunless. Rank: Aspirant. Aspect: Temple Slave. Aspect description: A temple slave is a useless wretch, rare but powerless.",
+    "emotion": "flat, grim",
+    "sfx": "",
+    "timing": "",
+    "notes": "Condensed rune list; factual."
+  },
+  {
+    "index": 8,
+    "scene": "S2 Shackled march",
+    "speaker": "Sunny",
+    "line": "No useless Aspects my ass!",
+    "emotion": "bitter",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 9,
+    "scene": "S2 Shackled march",
+    "speaker": "Shifty Slave",
+    "line": "Whore's bastard! Watch where you're going!",
+    "emotion": "furious",
+    "sfx": "chain jerk",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 10,
+    "scene": "S2 Shackled march",
+    "speaker": "Shifty Slave",
+    "line": "You little shit! I'm going to kill you!",
+    "emotion": "threatening",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 11,
+    "scene": "S2 Shackled march",
+    "speaker": "Broad-Shouldered Slave",
+    "line": "Why bother? The weakling will be dead by sunrise. The mountain will kill him… and us, too, just later.",
+    "emotion": "grim",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 12,
+    "scene": "S2 Shackled march",
+    "speaker": "Shifty Slave",
+    "line": "Speak for yourself, fool! I'm planning to survive!",
+    "emotion": "desperate",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 13,
+    "scene": "S2 Shackled march",
+    "speaker": "Gentle Slave",
+    "line": "This mountain pass is usually warmer. We had bad luck. Also, I advise you against harming this boy.",
+    "emotion": "gentle, calm",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 14,
+    "scene": "S2 Shackled march",
+    "speaker": "Broad-Shouldered Slave",
+    "line": "Why is that?",
+    "emotion": "skeptical",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 15,
+    "scene": "S2 Shackled march",
+    "speaker": "Gentle Slave",
+    "line": "Look at his markings. He was born a slave. A temple slave. The Imperials destroyed the last temple of the Shadow God. That is how he ended up here.",
+    "emotion": "measured",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 16,
+    "scene": "S2 Shackled march",
+    "speaker": "Broad-Shouldered Slave",
+    "line": "So what? Why fear a half-forgotten god? He couldn't save his own temples.",
+    "emotion": "dismissive",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 17,
+    "scene": "S2 Shackled march",
+    "speaker": "Gentle Slave",
+    "line": "The Empire is guarded by the War God. We are not. Do you want to risk angering another god?",
+    "emotion": "warning",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 18,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Narrator",
+    "line": "A young soldier rode up on a white horse. Noble, dignified — and irritatingly pretty. His voice carried concern.",
+    "emotion": "neutral",
+    "sfx": "horse snort; leather creak",
+    "timing": "",
+    "notes": "Sunny’s sarcastic thought kept internal."
+  },
+  {
+    "index": 19,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Young Soldier",
+    "line": "What is going on here?",
+    "emotion": "concerned",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 20,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Gentle Slave",
+    "line": "It's nothing, sir. We are tired and cold. Especially the young one. This journey is too hard for him.",
+    "emotion": "respectful",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 21,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Young Soldier",
+    "line": "Bear with it a little more, child. We will stop soon. For now, here, drink some water.",
+    "emotion": "kind",
+    "sfx": "flask open",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 22,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Sunny",
+    "line": "Child? Child?!",
+    "emotion": "irked",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner thought."
+  },
+  {
+    "index": 23,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Narrator",
+    "line": "Before Sunny could drink, a whip cracked. Pain lanced his back as an older soldier glared at the youth.",
+    "emotion": "tense",
+    "sfx": "whip crack sharp",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 24,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Older Soldier",
+    "line": "What do you think you're doing?",
+    "emotion": "angry",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 25,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Young Soldier",
+    "line": "I was just giving this boy water.",
+    "emotion": "defensive",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 26,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Older Soldier",
+    "line": "He'll get water at camp! These slaves are not your friends. They're not even people. Treat them like people and they'll imagine things.",
+    "emotion": "harsh, cruel",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 27,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Young Soldier",
+    "line": "But—",
+    "emotion": "hesitant",
+    "sfx": "",
+    "timing": "",
+    "notes": "Cut off quickly."
+  },
+  {
+    "index": 28,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Older Soldier",
+    "line": "Shut your mouth, newbie. Next time it’ll be your back tasting my whip!",
+    "emotion": "threatening",
+    "sfx": "whip crack air",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 29,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Narrator",
+    "line": "Sunny watched the older soldier ride past with malice. Then he looked at the young soldier, head bowed.",
+    "emotion": "flat, grim",
+    "sfx": "horse trot fade",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 30,
+    "scene": "S3 Soldiers appear",
+    "speaker": "Sunny",
+    "line": "I don't know how, but I will watch you die first. And you, second.",
+    "emotion": "vengeful",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner vow; dark tone."
+  }
+]

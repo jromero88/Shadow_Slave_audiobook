@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Broad-Shouldered Slave",
+    "voice_note": "Deep, weary; sardonic resilience"
+  },
+  {
+    "name": "Gentle Slave",
+    "voice_note": ""
+  },
+  {
+    "name": "Gentle Slave (Scholar)",
+    "voice_note": "Soft, intelligent; calm reasoning; dignified scholarly tone"
+  },
+  {
+    "name": "Gray-Haired Policeman",
+    "voice_note": "Seasoned, calm authority; empathetic but practical"
+  },
+  {
+    "name": "Head Soldier",
+    "voice_note": "Commanding; efficient authority"
+  },
+  {
+    "name": "Narrator",
+    "voice_note": "Warm neutral; steady pace; cinematic clarity prioritized"
+  },
+  {
+    "name": "Nightmare Spell System",
+    "voice_note": "Neutral, androgynous; clean UI tone with slight reverb"
+  },
+  {
+    "name": "Older Soldier",
+    "voice_note": "Harsh, domineering; cruel authority"
+  },
+  {
+    "name": "Shifty Slave",
+    "voice_note": "Quick, desperate; nervous edge"
+  },
+  {
+    "name": "Sunny",
+    "voice_note": ""
+  },
+  {
+    "name": "Tired Officer",
+    "voice_note": "Gruff, dismissive; bored front-desk fatigue"
+  },
+  {
+    "name": "Young Soldier",
+    "voice_note": "Noble, sympathetic; youthful earnestness"
+  }
+]

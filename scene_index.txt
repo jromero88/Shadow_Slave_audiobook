@@ -1,0 +1,35 @@
+=== 01_chapter1 ===
+S1 Park – outside police station — A frail-looking young man sat on a rusty bench across from the police station, cradling a cup of real, plant-based coffee he could barely…
+S1→S2 Transition — With a slight grin, Sunny crossed the street and entered the police station.
+S2 Station lobby — Are you lost, boy?
+S3 World lore interlude — The Nightmare Spell first appeared decades ago, as the world recovered from disaster and war. Fatigue became slumber, then death—and the…
+S4 Armored holding room — Minutes later, Sunny was restrained in a vault room with armored walls. Officers watched with rifles as a gray-haired policeman entered.
+S5 Descent into sleep — Sunny's eyelids grew heavy. He felt touched by the words, then slipped into darkness.
+
+=== 02_chapter2 ===
+S1 Dream mountain vision — Sunny dreamt of a jagged, lonesome mountain bathed in ghostly moonlight. Time reversed before his eyes: snow retreated, bones appeared, t…
+S2 Shackled march — A dull ache spread from Sunny’s bleeding feet. Shackles tore at his wrists, his thin tunic useless against the biting wind. Ahead, a broa…
+S3 Soldiers appear — A young soldier rode up on a white horse. Noble, dignified — and irritatingly pretty. His voice carried concern.
+
+=== 03_chapter3 ===
+S1 Caravan march — Sunny tried to enjoy the pristine mountain air, cleaner than anything in the real world.
+S2 Status check — Sunny summoned the runes again, this time reading his Attributes.
+S3 Camp order — The slaves collapsed in a clearing. Soldiers built a bonfire and herded them into a circle.
+S4 Imminent threat — Sunny recognized the camp as the site of slaughter from his vision.
+
+=== 04_chapter4 ===
+S1 Avalanche attack — Rocks and shards of ice rained down. Slaves panicked, tangled in chains, screams filling the night.
+S2 Creature reveal — A massive lump fell between caravan and wall, then rose — a towering monstrosity with fur like dirty snow, bone claws, and five milky eyes.
+S3 First strike — The monster slashed. Sunny leapt aside, dragging the broad-shouldered slave into its path.
+S4 Corpse transforms — The broad-shouldered corpse convulsed — bone spikes tearing skin, mouth splitting into rows of needle fangs.
+S5 Chain tactic — Sunny acted. He looped the chain around the monster’s shoulders, pulling to bind its arms.
+S6 Strangling struggle — Sunny wrapped the shackle chain around its neck, pulling with his whole body, back arched against it.
+S7 System message — [You have slain a dormant beast, Mountain King's Larva.]
+
+=== 05_chapter5 ===
+S1 Aftermath — Sunny fell to his knees, breathless, body broken yet exhilarated. No Memory appeared, only pain and cold.
+S2 New threat — Several maimed bodies began to move. Four more larvae rose, fangs glistening.
+S3 The key — The young soldier fought on, then threw something to Sunny.
+S4 Allies freed — Ah! Free at last! Gods must be smiling upon us!
+S5 Debate — The third larva died under the soldier’s blade. Shifty and Scholar argued over fleeing.
+S6 Sunny’s choice — Sunny knew Scholar was right. The mountain itself was deadlier than hunger or chains.

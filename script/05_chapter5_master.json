@@ -1,0 +1,212 @@
+[
+  {
+    "index": 1,
+    "scene": "S1 Aftermath",
+    "speaker": "Nightmare Spell System",
+    "line": "[You have slain a dormant beast, Mountain King's Larva.]",
+    "emotion": "neutral, synthetic",
+    "sfx": "soft UI chime",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 2,
+    "scene": "S1 Aftermath",
+    "speaker": "Narrator",
+    "line": "Sunny fell to his knees, breathless, body broken yet exhilarated. No Memory appeared, only pain and cold.",
+    "emotion": "weary",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 3,
+    "scene": "S1 Aftermath",
+    "speaker": "Sunny",
+    "line": "Three seconds. You can rest for three more seconds.",
+    "emotion": "resigned",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner thought."
+  },
+  {
+    "index": 4,
+    "scene": "S1 Aftermath",
+    "speaker": "Narrator",
+    "line": "The larva’s corpse still chained them. Shifty and Scholar untangled links while chaos raged further away.",
+    "emotion": "flat",
+    "sfx": "chain clink",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 5,
+    "scene": "S2 New threat",
+    "speaker": "Narrator",
+    "line": "Several maimed bodies began to move. Four more larvae rose, fangs glistening.",
+    "emotion": "tense",
+    "sfx": "flesh squelch; monster screech",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 6,
+    "scene": "S2 New threat",
+    "speaker": "Sunny",
+    "line": "Come at me, you bastard!",
+    "emotion": "defiant",
+    "sfx": "chain wrap",
+    "timing": "",
+    "notes": "Chain around knuckles."
+  },
+  {
+    "index": 7,
+    "scene": "S2 New threat",
+    "speaker": "Narrator",
+    "line": "A larva lunged — but a sword flashed, beheading it in one strike.",
+    "emotion": "intense",
+    "sfx": "sword slash; body thud",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 8,
+    "scene": "S2 New threat",
+    "speaker": "Sunny",
+    "line": "He is. Awesome… Poser! I mean he's a poser!",
+    "emotion": "conflicted",
+    "sfx": "",
+    "timing": "",
+    "notes": "Inner thought."
+  },
+  {
+    "index": 9,
+    "scene": "S3 The key",
+    "speaker": "Narrator",
+    "line": "The young soldier fought on, then threw something to Sunny.",
+    "emotion": "neutral",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 10,
+    "scene": "S3 The key",
+    "speaker": "Young Soldier",
+    "line": "Save yourself!",
+    "emotion": "firm",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 11,
+    "scene": "S3 The key",
+    "speaker": "Narrator",
+    "line": "It was a bent iron rod. A key to the shackles.",
+    "emotion": "realization",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 12,
+    "scene": "S3 The key",
+    "speaker": "Sunny",
+    "line": "It's the key to the shackles!",
+    "emotion": "excited",
+    "sfx": "lock click",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 13,
+    "scene": "S3 The key",
+    "speaker": "Narrator",
+    "line": "With a click, Sunny was free. He rubbed his wrists, eyes gleaming with dark intent.",
+    "emotion": "grim",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 14,
+    "scene": "S4 Allies freed",
+    "speaker": "Shifty Slave",
+    "line": "Ah! Free at last! Gods must be smiling upon us!",
+    "emotion": "manic joy",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 15,
+    "scene": "S4 Allies freed",
+    "speaker": "Gentle Slave (Scholar)",
+    "line": "Thank you…",
+    "emotion": "grateful",
+    "sfx": "",
+    "timing": "",
+    "notes": "Simplified gratitude line."
+  },
+  {
+    "index": 16,
+    "scene": "S5 Debate",
+    "speaker": "Narrator",
+    "line": "The third larva died under the soldier’s blade. Shifty and Scholar argued over fleeing.",
+    "emotion": "neutral",
+    "sfx": "bonfire crackle",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 17,
+    "scene": "S5 Debate",
+    "speaker": "Shifty Slave",
+    "line": "If you say 'advise' again, I swear I'll bash your head open!",
+    "emotion": "furious",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 18,
+    "scene": "S5 Debate",
+    "speaker": "Gentle Slave (Scholar)",
+    "line": "If we run away, we will surely die. Without the fire, we’ll freeze before dawn.",
+    "emotion": "warning",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 19,
+    "scene": "S6 Sunny’s choice",
+    "speaker": "Narrator",
+    "line": "Sunny knew Scholar was right. The mountain itself was deadlier than hunger or chains.",
+    "emotion": "somber",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 20,
+    "scene": "S6 Sunny’s choice",
+    "speaker": "Sunny",
+    "line": "Let's go take a look.",
+    "emotion": "determined",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  },
+  {
+    "index": 21,
+    "scene": "S6 Sunny’s choice",
+    "speaker": "Shifty Slave",
+    "line": "Are you insane? You want to get closer to that beast?!",
+    "emotion": "panicked",
+    "sfx": "",
+    "timing": "",
+    "notes": ""
+  }
+]
