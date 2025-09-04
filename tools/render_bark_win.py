@@ -15,6 +15,11 @@ from typing import List
 import numpy as np
 import soundfile as sf
 
+import torch
+from torch.serialization import add_safe_globals
+add_safe_globals([np.core.multiarray.scalar])  # allow legacy numpy scalar in checkpoints
+
+
 # Bark
 from bark import generate_audio, preload_models
 
