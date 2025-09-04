@@ -1,0 +1,9 @@
+<speak>
+  <voice name="Older Soldier">
+    <prosody rate="medium">What do you think you&#x27;re doing?</prosody>
+    <prosody rate="medium">He&#x27;ll get water at camp! These slaves are not your friends. They&#x27;re not even people. Treat them like people and they&#x27;ll imagine things.</prosody>
+    <prosody rate="medium">Shut your mouth, newbie. Next time it’ll be your back tasting my whip!</prosody>
+    <break time="300ms"/>
+    <prosody rate="medium">On your feet, fools! Get to the wall!</prosody>
+  </voice>
+</speak>

@@ -1,0 +1,10 @@
+<speak>
+  <voice name="Young Soldier">
+    <prosody rate="medium">What is going on here?</prosody>
+    <prosody rate="medium">Bear with it a little more, child. We will stop soon. For now, here, drink some water.</prosody>
+    <prosody rate="medium">I was just giving this boy water.</prosody>
+    <prosody rate="medium">But—</prosody>
+    <break time="300ms"/>
+    <prosody rate="medium">Save yourself!</prosody>
+  </voice>
+</speak>

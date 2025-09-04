@@ -1,0 +1,7 @@
+<speak>
+  <voice name="Tired Officer">
+    <prosody rate="medium">Are you lost, boy?</prosody>
+    <prosody rate="medium">Are you sure? When did the symptoms start?</prosody>
+    <prosody rate="medium">Shit. Attention! Code Black in the lobby! I repeat—CODE BLACK!</prosody>
+  </voice>
+</speak>

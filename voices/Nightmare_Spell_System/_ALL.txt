@@ -1,0 +1,12 @@
+
+=== 01_chapter1 ===
+[Aspirant! Welcome to the Nightmare Spell. Prepare for your First Trial…]
+
+=== 02_chapter2 ===
+[Aspirant! Welcome to the Nightmare Spell. Prepare for your First Trial…]
+
+=== 04_chapter4 ===
+[You have slain a dormant beast, Mountain King's Larva.]
+
+=== 05_chapter5 ===
+[You have slain a dormant beast, Mountain King's Larva.]

@@ -1,0 +1,11 @@
+<speak>
+  <voice name="Gentle Slave (Scholar)">
+    <prosody rate="medium">I would advise against eating those, friend.</prosody>
+    <prosody rate="medium">These berries are called Bloodbane. They grow where blood has been spilled. Bloodbane is poisonous — a few could kill a man.</prosody>
+    <break time="300ms"/>
+    <prosody rate="medium">Th— the chain!</prosody>
+    <break time="300ms"/>
+    <prosody rate="medium">Thank you…</prosody>
+    <prosody rate="medium">If we run away, we will surely die. Without the fire, we’ll freeze before dawn.</prosody>
+  </voice>
+</speak>
