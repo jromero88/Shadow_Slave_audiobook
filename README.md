@@ -1,4 +1,4 @@
-# My_Audiobook_Project – Production Notes
+# Shadow Slave – Production Notes
 
 ## 📖 Project Overview
 This repository contains the dramatized audiobook adaptation of *Shadow Slave* (Volume 1).  
